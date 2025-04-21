@@ -6,18 +6,19 @@ This project I am making consist of a macbook pro (2017?) and a raspberry pi or 
 
 
 Ideas
+
 1:ability to attack other cars
 
 2:ability to control the car on a phone or tablet
 
 3:lane control
+.
 
+.
 
+.
 
-
-
-
-
+.
 
 I would love help on this project as I am not such a expert in ble controls.
 
