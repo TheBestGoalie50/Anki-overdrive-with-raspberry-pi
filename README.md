@@ -8,3 +8,7 @@ I am taking inspo on the actual app and its ability to attack other cars and usi
 
 
 I would love help on this project as I am not such a expert in ble controls.
+
+
+Disclaimer
+The authors of this software are in no way affiliated to Anki. All naming rights for Anki, Anki Drive and Anki Overdrive are property of Anki.
